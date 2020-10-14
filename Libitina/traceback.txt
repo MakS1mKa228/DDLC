@@ -1,0 +1,28 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 66, in script
+    with Dissole(2.)
+  File "game/script.rpy", line 66, in <module>
+    with Dissole(2.)
+NameError: name 'Dissole' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 66, in script
+    with Dissole(2.)
+  File "/run/timeshift/backup/renpy-7.3.5-sdk/renpy/ast.py", line 1382, in execute
+    trans = renpy.python.py_eval(self.expr)
+  File "/run/timeshift/backup/renpy-7.3.5-sdk/renpy/python.py", line 2059, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "/run/timeshift/backup/renpy-7.3.5-sdk/renpy/python.py", line 2052, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 66, in <module>
+    with Dissole(2.)
+NameError: name 'Dissole' is not defined
+
+Linux-5.4.0-47-generic-x86_64-with-debian-bullseye-sid
+Ren'Py 7.3.5.606
+Libitina 1.0
+Tue Sep 15 00:19:43 2020

@@ -1,0 +1,498 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 184: expected statement.
+    я лишь улыбнулся взяв за руку сайори
+                                        ^
+
+File "game/script.rpy", line 185: expected statement.
+    направился к напровлению к парку
+                                    ^
+
+File "game/script.rpy", line 186: expected statement.
+    я направился к качелем в след замной шла сайори
+                                                   ^
+
+File "game/script.rpy", line 187: expected statement.
+    завтра выходные сказав она смотря в одну то в другую
+                                                        ^
+
+File "game/script.rpy", line 188: expected statement.
+    сторону сайори что то стало волновать 
+                                          ^
+
+File "game/script.rpy", line 189: expected statement.
+    ты в порядке ответив я посмотрел на сайори 
+                                               ^
+
+File "game/script.rpy", line 190: expected statement.
+    да все отлично
+                  ^
+
+File "game/script.rpy", line 191: expecting name after dot.
+    саёри....
+          ^
+
+File "game/script.rpy", line 192: expected statement.
+    все хорошо не волнуйся я новерное пойду домой 
+                                                  ^
+
+File "game/script.rpy", line 193: expected statement.
+    саёри быстро удалилась с моих глаз и побежала в сторону своего дома
+                                                                       ^
+
+File "game/script.rpy", line 194: expected statement.
+    я решил пойти к сайори 
+                           ^
+
+File "game/script.rpy", line 195: expected statement.
+    придя к дому сайори я постучался и и решил открыть дверь....
+                                                            ^
+
+File "game/script.rpy", line 196: expected statement.
+    заперто
+           ^
+
+File "game/script.rpy", line 197: expected statement.
+    надеюсь все хорошо
+                      ^
+
+File "game/script.rpy", line 198: expected statement.
+    ох как тяжело в последнее время с ней
+                                         ^
+
+File "game/script.rpy", line 199: expected statement.
+    уже вечер пожалуй направлюсь я домой
+                                        ^
+
+File "game/script.rpy", line 200: expected statement.
+    моника слушай раз я могу с тобои общаться через машину 
+                                                           ^
+
+File "game/script.rpy", line 201: expected statement.
+    сколько времени это займет 
+                               ^
+
+File "game/script.rpy", line 202: expected statement.
+    подожди нужно время что бы тебя вызволить отсюда
+                                                    ^
+
+File "game/script.rpy", line 203: expected statement.
+    а что может случиться 
+                          ^
+
+File "game/script.rpy", line 204: expected statement.
+    моника промолчала
+                     ^
+
+File "game/script.rpy", line 205: expected statement.
+    ну же скажи в тоже момент я почувствовал...
+                                            ^
+
+File "game/script.rpy", line 206: expecting name after dot.
+    холод...
+          ^
+
+File "game/script.rpy", line 207: expected statement.
+    ЧТО что сомной мысли начинались путаться
+                                            ^
+
+File "game/script.rpy", line 208: expected statement.
+    моника моника скажи уже что нибудь
+                                      ^
+
+File "game/script.rpy", line 209: expected statement.
+    МОНИКААААААА
+                ^
+
+File "game/script.rpy", line 210: expected statement.
+    я с ужасом встал из своей постели меня пробивал холодный пот присниться же...
+                                                                              ^
+
+File "game/script.rpy", line 211: expected statement.
+    я протер глаза и направился в сторону ванны что бы превести себя в чувства
+                                                                              ^
+
+File "game/script.rpy", line 212: expected statement.
+    на благо у нас в коплексе была чистая и прохладная вода стоп... 
+                                                                ^
+
+File "game/script.rpy", line 213: expected statement.
+    что то тут не так
+                     ^
+
+File "game/script.rpy", line 214: expected statement.
+    твою девизию....
+                ^
+
+File "game/script.rpy", line 215: expected statement.
+    как так почему я тут откуда моника же вроди меня вытощила 
+                                                              ^
+
+File "game/script.rpy", line 216: expected statement.
+    я надумал бежать в комноту как потскальзнуля и ударился головой
+                                                                   ^
+
+File "game/script.rpy", line 217: expected statement.
+    об ракавену 
+                ^
+
+File "game/script.rpy", line 218: expected statement.
+    ты в порядке слышан был голос испуганной девочки...
+                                                    ^
+
+File "game/script.rpy", line 219: expected statement.
+    Сайори это ты но как откуда
+                               ^
+
+File "game/script.rpy", line 220: expected statement.
+    я услышала странный грохот и решила проверить что у тебя 
+                                                             ^
+
+File "game/script.rpy", line 221: expected statement.
+    дверь была открыта
+                      ^
+
+File "game/script.rpy", line 222: expected statement.
+    супер еще вчера не закрыл дверь благо на мне были джинсы
+                                                            ^
+
+File "game/script.rpy", line 223: expected statement.
+    с футболкой
+               ^
+
+File "game/script.rpy", line 224: expected statement.
+    раз мы тут может чай поставить
+                                  ^
+
+File "game/script.rpy", line 225: expected statement.
+    чай?!
+       ^
+
+File "game/script.rpy", line 226: expected statement.
+    ну да а как же твоя голова
+                              ^
+
+File "game/script.rpy", line 227: expected statement.
+    тут я только обратил внимание что с головы по лицу течет кровь из раны
+                                                                          ^
+
+File "game/script.rpy", line 228: expected statement.
+    н-нужно обработать 
+                       ^
+
+File "game/script.rpy", line 229: expected statement.
+    пока Сайори обрабатывала мне рану чайник начинал закипать
+                                                             ^
+
+File "game/script.rpy", line 230: expected statement.
+    я схожу выключу 
+                    ^
+
+File "game/script.rpy", line 231: expected statement.
+    саери направила сторону кухни а меня все мучал вопрос что тут происходит над
+                                                                                ^
+
+File "game/script.rpy", line 232: expected statement.
+    телом я получил контроль даже мысли мои но саери это лучьше не говорить...
+                                                                           ^
+
+File "game/script.rpy", line 233: expected statement.
+    снова в облаках летаешь
+                           ^
+
+File "game/script.rpy", line 234: expected statement.
+    а да вот вспомнил вчерашний день как проволил эгзамен а 
+                                                            ^
+
+File "game/script.rpy", line 235: expected statement.
+    тачнее это игровое тело
+                           ^
+
+File "game/script.rpy", line 236: expected statement.
+    ты севодня сам не свой это новерное от удара
+                                                ^
+
+File "game/script.rpy", line 237: expected statement.
+    удара точно я же сейчас мыслю не  как игровой персонаж а значит
+                                                                   ^
+
+File "game/script.rpy", line 238: expected statement.
+    есть и выход от сюда но вот где моника новерника должна знать
+                                                                 ^
+
+File "game/script.rpy", line 239: expected statement.
+    где здесь находиться выключатель 
+                                     ^
+
+File "game/script.rpy", line 240: expected statement.
+    сайори отвлекла меня от мыслей
+                                  ^
+
+File "game/script.rpy", line 241: expected statement.
+    ты как в школу сможешь идти 
+                                ^
+
+File "game/script.rpy", line 242: expected statement.
+    да да конечно 
+                  ^
+
+File "game/script.rpy", line 243: expected statement.
+    кивну я ей вслед
+                    ^
+
+File "game/script.rpy", line 244: expected statement.
+    довно я не одевал школьную форму еще с школьных времен
+                                                          ^
+
+File "game/script.rpy", line 245: expected statement.
+    тут меня охватила не вероятная боль все смешалось и был слышан голос 
+                                                                         ^
+
+File "game/script.rpy", line 246: expected statement.
+    убей убей 
+              ^
+
+File "game/script.rpy", line 247: expected statement.
+    что что это...
+               ^
+
+File "game/script.rpy", line 248: expected statement.
+    ты в порядке
+                ^
+
+File "game/script.rpy", line 249: expected statement.
+    саёри уже успела сбегать переодеться!?
+                                        ^
+
+File "game/script.rpy", line 250: expected statement.
+    да этого от программы я не ожидал
+                                     ^
+
+File "game/script.rpy", line 251: expected statement.
+    мы с саёри отправильсь в школу 
+                                   ^
+
+File "game/script.rpy", line 252: expected statement.
+    и как всегда сайори по дороге в школу болтала и рассказывала всякие шутки хотя половину я их пропускал
+                                                                                                          ^
+
+File "game/script.rpy", line 253: expected statement.
+    мимо ушей
+             ^
+
+File "game/script.rpy", line 254: expected statement.
+    как думаешь может вступить
+                              ^
+
+File "game/script.rpy", line 255: expecting name after dot.
+    а... 
+      ^
+
+File "game/script.rpy", line 256: expected statement.
+    что?
+       ^
+
+File "game/script.rpy", line 257: expected statement.
+    ты опять меня не слышал
+                           ^
+
+File "game/script.rpy", line 258: expected statement.
+    ты об летературном клубе да
+                               ^
+
+File "game/script.rpy", line 259: expecting name after dot.
+    знаешь.....
+           ^
+
+File "game/script.rpy", line 260: expected statement.
+    как я ей скажу что я ненавижу литературу
+                                            ^
+
+File "game/script.rpy", line 261: expected statement.
+    и что всякие стяшки меня не устраивают
+                                          ^
+
+File "game/script.rpy", line 262: expected statement.
+    и что я любитель манги стоп....
+                               ^
+
+File "game/script.rpy", line 263: expected statement.
+    я же не любитель манги это персонаж любитель
+                                                ^
+
+File "game/script.rpy", line 264: expected statement.
+    в голове все перемешалось мне нужна была секунда что бы все уложить
+                                                                       ^
+
+File "game/script.rpy", line 265: expected statement.
+    я подумаю 
+              ^
+
+File "game/script.rpy", line 266: expected statement.
+    ответил я не размышляя
+                          ^
+
+File "game/script.rpy", line 267: expected statement.
+    хорошо тогда увидимся после уроков
+                                      ^
+
+File "game/script.rpy", line 268: expected statement.
+    Сайори убежало в толпу и исчесла из виду
+                                            ^
+
+File "game/script.rpy", line 269: expected statement.
+    зайдя в класс я просидел все думая как бы мне ответить Сайори не обидев её
+                                                                              ^
+
+File "game/script.rpy", line 270: expected statement.
+    мда время литит быстро тут я не заметил как уроки уже 
+                                                          ^
+
+File "game/script.rpy", line 271: expected statement.
+    кончились
+             ^
+
+File "game/script.rpy", line 272: expected statement.
+    идя по коредору я наткнулся на девочку с розовами волосами
+                                                              ^
+
+File "game/script.rpy", line 273: expected statement.
+    эй ты идиот смотри куда идешь эм что 
+                                         ^
+
+File "game/script.rpy", line 274: expected statement.
+    ту я заметил как я сталкнулся с ней нос к носу
+                                                  ^
+
+File "game/script.rpy", line 275: expected statement.
+    у тебя что глаза на затылке или как 
+                                        ^
+
+File "game/script.rpy", line 276: expected statement.
+    эм да ладно тебе извени 
+                            ^
+
+File "game/script.rpy", line 277: expected statement.
+    нацуки быстрым шагом не проранив и слова прошла мимо меня
+                                                             ^
+
+File "game/script.rpy", line 278: expected statement.
+    нужно найти сайори вроде она должна ждать меня
+                                                  ^
+
+File "game/script.rpy", line 279: expected statement.
+    и направился в сторону ее класса
+                                    ^
+
+File "game/script.rpy", line 280: expected statement.
+    и тут как неожиданно я встретил монику
+                                          ^
+
+File "game/script.rpy", line 281: expected statement.
+    хорошо что она оказалось в нужный момент 
+                                             ^
+
+File "game/script.rpy", line 282: expected statement.
+    моника как выбраться от сюда спрасив я ее
+                                             ^
+
+File "game/script.rpy", line 283: expected statement.
+    она посмотрела на меня с удевлением
+                                       ^
+
+File "game/script.rpy", line 284: expected statement.
+    что с тобой ты случаем не ударился головой об раковину
+                                                          ^
+
+File "game/script.rpy", line 285: expected statement.
+    Что окуда она знает что я ударился головой об раковину
+                                                          ^
+
+File "game/script.rpy", line 286: expected statement.
+    не успев сказать и слова я перебил монику новерное сам персонаж встал бы как вкопаный но я ее то 
+                                                                                                     ^
+
+File "game/script.rpy", line 287: expected statement.
+    знаю
+        ^
+
+File "game/script.rpy", line 288: expected statement.
+    моника хватить придуряться где чертов выход
+                                               ^
+
+File "game/script.rpy", line 289: expected statement.
+    тут моника просто вступила в шок 
+                                     ^
+
+File "game/script.rpy", line 290: expected statement.
+    с тобой все в порядке
+                         ^
+
+File "game/script.rpy", line 291: expected statement.
+    да хорошо но как мне выйти из симуляции 
+                                            ^
+
+File "game/script.rpy", line 292: expected statement.
+    тут моника нахмурилась ты
+                             ^
+
+File "game/script.rpy", line 293: expected statement.
+    как с студсоветом разговареваешь
+                                    ^
+
+File "game/script.rpy", line 294: expected statement.
+    бля вот я влип похоже нужно 
+                                ^
+
+File "game/script.rpy", line 295: expected statement.
+    как то выкручиваться
+                        ^
+
+File "game/script.rpy", line 296: expected statement.
+    а извени но мне нужно найти Сайори прости.....
+                                             ^
+
+File "game/script.rpy", line 297: expected statement.
+    пока я быстрым шагом одалялся от странной моники
+                                                    ^
+
+File "game/script.rpy", line 298: expected statement.
+    похоже я отошел достаточно долеко от нее и что на нее нашло
+                                                               ^
+
+File "game/script.rpy", line 299: expected statement.
+    ...
+    ^
+
+File "game/script.rpy", line 300: expected statement.
+    тут я услышал грохот из соседнего класа это был класс Сайори
+                                                                ^
+
+File "game/script.rpy", line 301: expected statement.
+    зайдя в класс я увидел такую картину Сайори седит на полу и трет голову
+                                                                           ^
+
+File "game/script.rpy", line 302: expected statement.
+    ух как больно 
+                  ^
+
+File "game/script.rpy", line 303: expected statement.
+    что случилось
+                 ^
+
+File "game/script.rpy", line 304: expected statement.
+    спросил я
+             ^
+
+File "game/script.rpy", line 305: expected statement.
+    она показала на упавший стул а затемпосмотрела на фламастеры 
+                                                                 ^
+
+File "game/script.rpy", line 306: expected statement.
+    которые уже благополучно расыпались по классу
+                                                 ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Fri Oct  9 16:44:02 2020
